@@ -261,6 +261,12 @@
     "translations" : [ {
       "title" : "形容詞",
       "forms" : [ "よい " ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "いい" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "良い" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
