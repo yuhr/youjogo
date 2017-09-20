@@ -132,7 +132,7 @@
     "tags" : [ "格" ],
     "contents" : [ {
       "title" : "機能",
-      "text" : "対格。"
+      "text" : "対格。えーと、えっと、えとえととも。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -437,7 +437,7 @@
   }, {
     "entry" : {
       "id" : 25,
-      "form" : "んーっとだっこ"
+      "form" : "んーっとなんで"
     },
     "translations" : [ {
       "title" : "文末詞",
@@ -485,7 +485,7 @@
     },
     "translations" : [ {
       "title" : "文頭詞",
-      "forms" : [ "かも" ]
+      "forms" : [ "かもしれない" ]
     }, {
       "title" : "文頭詞",
       "forms" : [ "だろう" ]
@@ -653,11 +653,14 @@
       "form" : "なのです"
     },
     "translations" : [ {
-      "title" : "文中詞",
+      "title" : "後置詞",
       "forms" : [ "だけでなく" ]
     }, {
       "title" : "文末詞",
       "forms" : [ "なのだ" ]
+    }, {
+      "title" : "文末詞",
+      "forms" : [ "なのである" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1056,7 +1059,7 @@
       "text" : "提案。勧誘。命令。"
     }, {
       "title" : "例文",
-      "text" : "ねー！ おままごと ふたりなかよし よ！\nはい二人組作ってー"
+      "text" : "ねー！ おままごと うさぎさんなかよし よ！\nはい二人組作ってー"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -1329,7 +1332,7 @@
     },
     "translations" : [ {
       "title" : "形容詞",
-      "forms" : [ "簡単" ]
+      "forms" : [ "簡単な" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1550,11 +1553,17 @@
       "title" : "動詞",
       "forms" : [ "入れる" ]
     }, {
-      "title" : "動詞",
-      "forms" : [ "入る" ]
-    }, {
       "title" : "助動詞",
       "forms" : [ "していい" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "許す" ]
+    }, {
+      "title" : "間投詞",
+      "forms" : [ "どういたしまして" ]
+    }, {
+      "title" : "間投詞",
+      "forms" : [ "気にしないで" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1594,7 +1603,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "機能",
-      "text" : "同意。"
+      "text" : "呼びかけ。同意。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1759,14 +1768,17 @@
       "form" : "おそらいろ"
     },
     "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "無" ]
+    }, {
       "title" : "形容詞",
       "forms" : [ "空っぽ" ]
     }, {
       "title" : "形容詞",
       "forms" : [ "無い" ]
     }, {
-      "title" : "名詞",
-      "forms" : [ "無" ]
+      "title" : "動詞",
+      "forms" : [ "存在しない" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1833,12 +1845,21 @@
       "forms" : [ "いわゆる" ]
     }, {
       "title" : "文末詞",
+      "forms" : [ "なのだ" ]
+    }, {
+      "title" : "文末詞",
       "forms" : [ "なのである" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "機能",
       "text" : "格言や熟語の標識。文末では強意。"
+    }, {
+      "title" : "例文",
+      "text" : "おともだちっぽいの ぐぬぬっぽいかも なの\n一切皆苦"
+    }, {
+      "title" : "例文",
+      "text" : "ごほうびひみつきち このゆびとまれ なの\n梵我一如"
     }, {
       "title" : "例文",
       "text" : "おもいでってば おそらいろっぽいかも なの\n色即是空"
@@ -2177,7 +2198,7 @@
       "form" : "おねがい"
     },
     "translations" : [ {
-      "title" : "",
+      "title" : "助動詞",
       "forms" : [ "してください" ]
     } ],
     "tags" : [ ],
@@ -2381,16 +2402,16 @@
     },
     "translations" : [ {
       "title" : "後置詞",
-      "forms" : [ "に関して" ]
+      "forms" : [ "に関する" ]
     }, {
       "title" : "後置詞",
-      "forms" : [ "くらい" ]
+      "forms" : [ "くらいの" ]
     }, {
       "title" : "後置詞",
-      "forms" : [ "ほど" ]
+      "forms" : [ "ほどの" ]
     }, {
       "title" : "後置詞",
-      "forms" : [ "のよう" ]
+      "forms" : [ "のような" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2912,6 +2933,9 @@
     }, {
       "title" : "動詞",
       "forms" : [ "である" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "存在する" ]
     }, {
       "title" : "動詞",
       "forms" : [ "持っている" ]
@@ -3655,6 +3679,9 @@
       "title" : "名詞",
       "forms" : [ "知識" ]
     }, {
+      "title" : "名詞",
+      "forms" : [ "物知り" ]
+    }, {
       "title" : "動詞",
       "forms" : [ "教える" ]
     } ],
@@ -3909,6 +3936,12 @@
     "translations" : [ {
       "title" : "副詞",
       "forms" : [ "まだ" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "いまだに" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "未だに" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5097,6 +5130,346 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "辞書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 309,
+      "form" : "いっぱい"
+    },
+    "translations" : [ {
+      "title" : "助動詞",
+      "forms" : [ "できる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "機能",
+      "text" : "可能。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 310,
+      "form" : "わふーいまねー"
+    },
+    "translations" : [ {
+      "title" : "文頭詞",
+      "forms" : [ "したところだ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "機能",
+      "text" : "現在完了。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 311,
+        "form" : "いまねーわふー"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 311,
+      "form" : "いまねーわふー"
+    },
+    "translations" : [ {
+      "title" : "文頭詞",
+      "forms" : [ "したところだ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "機能",
+      "text" : "現在完了。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 310,
+        "form" : "わふーいまねー"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 312,
+      "form" : "ざんねん"
+    },
+    "translations" : [ {
+      "title" : "文頭詞",
+      "forms" : [ "残念ながら" ]
+    }, {
+      "title" : "文頭詞",
+      "forms" : [ "不運なことに" ]
+    }, {
+      "title" : "文頭詞",
+      "forms" : [ "不幸なことに" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 313,
+      "form" : "みたいに"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "のように" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 314,
+      "form" : "やばいかも"
+    },
+    "translations" : [ {
+      "title" : "助動詞",
+      "forms" : [ "しすぎる" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "過剰に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 315,
+      "form" : "ばっかし"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "だけ" ]
+    }, {
+      "title" : "後置詞",
+      "forms" : [ "ばかり" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "機能",
+      "text" : "限定。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 316,
+      "form" : "あたまおかしくなっちゃう"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "複雑な" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "難しい" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "困難な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 317,
+      "form" : "おとこのこ"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "違う" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "異なる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 318,
+      "form" : "かんぺき"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "完全に" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "まったく" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "完全な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 319,
+      "form" : "かしら"
+    },
+    "translations" : [ {
+      "title" : "文末詞",
+      "forms" : [ "かしら" ]
+    }, {
+      "title" : "文末詞",
+      "forms" : [ "かな" ]
+    }, {
+      "title" : "文末詞",
+      "forms" : [ "かもしれない" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 320,
+      "form" : "ばなな"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "要素" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 321,
+      "form" : "しゅつげん"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "出てくる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "現れる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 322,
+      "form" : "まぜて"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "入る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 323,
+      "form" : "おかいもの"
+    },
+    "translations" : [ {
+      "title" : "助動詞",
+      "forms" : [ "しなければならない" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "必要とする" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "必要性" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "需要" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 324,
+      "form" : "おねだん"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "意味" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "意義" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "価値" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "価格" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "値段" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "意味する" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "値する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 325,
+      "form" : "おそと"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "大自然" ]
+    }, {
+      "title" : "",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 326,
+      "form" : "おんなのこのじょーしき"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "自然な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 327,
+      "form" : "へんたい"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "異常な" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "おかしい" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
