@@ -1344,8 +1344,14 @@
       "form" : "さみしい"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "助動詞",
       "forms" : [ "してほしい" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "望み" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "望む" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
