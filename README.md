@@ -4,7 +4,7 @@
 
 [`youjogo.json`](https://raw.githubusercontent.com/yuhr/youjogo/master/youjogo.json) is the dictionary file in [OTM-JSON](http://ja.conlinguistics.wikia.com/wiki/OTM-JSON) format.
 
-# 君が代 (Kimigayo)
+## 君が代 (Kimigayo)
 
 > にーにの　ぜんぶようちえん  
 > ぴょんぴょんはなまる　ずっとびろーん  
