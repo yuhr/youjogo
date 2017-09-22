@@ -9280,6 +9280,59 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 537,
+      "form" : "おねんねしよ"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "ここまでに" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "今までに" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ここまで" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "今まで" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "完了する" ]
+    }, {
+      "title" : "助動詞",
+      "forms" : [ "した" ]
+    }, {
+      "title" : "助動詞",
+      "forms" : [ "し終わる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "機能",
+      "text" : "完了。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 538,
+      "form" : "おねんねしよてきな"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "ここまでの" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "今までの" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "既存の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
