@@ -109,11 +109,14 @@
     }, {
       "title" : "文末詞",
       "forms" : [ "ですか？" ]
+    }, {
+      "title" : "文頭詞",
+      "forms" : [ "それよりも" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "機能",
-      "text" : "仮定。関係節。疑問。仮定の使い方は「ていうか..(てきな)おひるね = If ... then,...」。関係節の使い方は英語と同じで「SV っていうか SVO/SVC」。「だもん」を挟むと倒置されて 「SVO/SVC だもん SV っていうか」。"
+      "text" : "仮定。関係節。疑問。仮定の使い方は「ていうか..(てきな)おひるね = If ... then,...」。関係節の使い方は英語と同じで「SV っていうか SVO/SVC」。「だもん」を挟むと倒置されて 「SVO/SVC だもん SV っていうか」。ていうかとも。"
     }, {
       "title" : "例文",
       "text" : "やったー なのです！　みゅう まじかる っていうか えーっと アナタさん だもん ぷらちな だいすきーっ！　けっこんするもん！"
@@ -203,6 +206,9 @@
     "translations" : [ {
       "title" : "接続詞",
       "forms" : [ "しかし" ]
+    }, {
+      "title" : "接続詞",
+      "forms" : [ "でも" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -457,6 +463,9 @@
     "translations" : [ {
       "title" : "文末詞",
       "forms" : [ "ですよね？" ]
+    }, {
+      "title" : "文末詞",
+      "forms" : [ "違いますか？" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -524,7 +533,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "機能",
-      "text" : "過去。完了。経験。大過去にはぷらちなを使う。"
+      "text" : "過去。完了。現在完了。経験。大過去にはぷらちなを使う。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1093,7 +1102,7 @@
       "title" : "類義語",
       "entry" : {
         "id" : 330,
-        "form" : "いーい"
+        "form" : "どーして"
       }
     } ]
   }, {
@@ -1392,11 +1401,32 @@
       "title" : "助動詞",
       "forms" : [ "してほしい" ]
     }, {
+      "title" : "助動詞",
+      "forms" : [ "してもらいたい" ]
+    }, {
+      "title" : "助動詞",
+      "forms" : [ "して欲しい" ]
+    }, {
+      "title" : "助動詞",
+      "forms" : [ "して貰いたい" ]
+    }, {
       "title" : "名詞",
       "forms" : [ "望み" ]
     }, {
+      "title" : "名詞",
+      "forms" : [ "欲求" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "希望" ]
+    }, {
       "title" : "動詞",
       "forms" : [ "望む" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "欲する" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "求める" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1601,14 +1631,17 @@
       "form" : "いいよ"
     },
     "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "入れる" ]
+      "title" : "名詞",
+      "forms" : [ "許可" ]
     }, {
       "title" : "助動詞",
       "forms" : [ "していい" ]
     }, {
-      "title" : "動詞",
-      "forms" : [ "許す" ]
+      "title" : "助動詞",
+      "forms" : [ "して良い" ]
+    }, {
+      "title" : "助動詞",
+      "forms" : [ "してよい" ]
     }, {
       "title" : "間投詞",
       "forms" : [ "どういたしまして" ]
@@ -1616,8 +1649,17 @@
       "title" : "間投詞",
       "forms" : [ "気にしないで" ]
     }, {
-      "title" : "名詞",
-      "forms" : [ "許可" ]
+      "title" : "間投詞",
+      "forms" : [ "構いません" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "構わない" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "入れる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "許す" ]
     }, {
       "title" : "動詞",
       "forms" : [ "含む" ]
@@ -2027,7 +2069,7 @@
       "title" : "類義語",
       "entry" : {
         "id" : 330,
-        "form" : "いーい"
+        "form" : "どーして"
       }
     } ]
   }, {
@@ -2616,9 +2658,6 @@
       "form" : "れっつごー"
     },
     "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "頭" ]
-    }, {
       "title" : "動詞",
       "forms" : [ "率いる" ]
     } ],
@@ -4548,10 +4587,16 @@
       "title" : "名詞",
       "forms" : [ "酒" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "古" ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "新語",
+      "entry" : {
+        "id" : 521,
+        "form" : "ぽわわー"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 260,
@@ -5149,7 +5194,7 @@
       "title" : "類義語",
       "entry" : {
         "id" : 330,
-        "form" : "いーい"
+        "form" : "どーして"
       }
     } ]
   }, {
@@ -5248,7 +5293,13 @@
       "text" : "because (=from that)。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 525,
+        "form" : "だってなんで"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 306,
@@ -5334,7 +5385,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "機能",
-      "text" : "現在完了。"
+      "text" : "過去進行形。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5756,25 +5807,16 @@
   }, {
     "entry" : {
       "id" : 330,
-      "form" : "いーい"
+      "form" : "どーして"
     },
     "translations" : [ {
-      "title" : "文頭詞",
-      "forms" : [ "いいですか" ]
-    }, {
-      "title" : "文頭詞",
-      "forms" : [ "よいですか" ]
-    }, {
-      "title" : "文頭詞",
-      "forms" : [ "良いですか" ]
-    }, {
-      "title" : "文頭詞",
-      "forms" : [ "しなさい" ]
+      "title" : "間投詞",
+      "forms" : [ "しませんか" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "機能",
-      "text" : "命令。提案。多くの場合で疑問符が付く。"
+      "text" : "提案。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5794,6 +5836,12 @@
       "entry" : {
         "id" : 59,
         "form" : "よ"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 524,
+        "form" : "いーい"
       }
     } ]
   }, {
@@ -6453,6 +6501,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "偶像" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "指導者" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -7806,6 +7857,9 @@
     "translations" : [ {
       "title" : "文末詞",
       "forms" : [ "であるようだ" ]
+    }, {
+      "title" : "後置詞",
+      "forms" : [ "であるような" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -8335,11 +8389,14 @@
     "translations" : [ {
       "title" : "後置詞",
       "forms" : [ "するような" ]
+    }, {
+      "title" : "後置詞",
+      "forms" : [ "のような" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "機能",
-      "text" : "動詞の形容詞化。"
+      "text" : "形容詞化。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -8485,6 +8542,9 @@
     }, {
       "title" : "形容詞",
       "forms" : [ "しっかりした" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "確立された" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -8897,6 +8957,324 @@
     }, {
       "title" : "名詞",
       "forms" : [ "疑問" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 519,
+      "form" : "またあそぼ"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "さようなら" ]
+    }, {
+      "title" : "間投詞",
+      "forms" : [ "さようなら" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 520,
+      "form" : "おはなばたけ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "頭" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 521,
+      "form" : "ぽわわー"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "酒" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "抗精神物質" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "古語",
+      "entry" : {
+        "id" : 259,
+        "form" : "おばけみーみ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 522,
+      "form" : "ねーねおままごとてきなあそぼーよ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "人工言語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 523,
+      "form" : "じょーしきてきなあそぼーよ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "自然言語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 524,
+      "form" : "いーい"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "いいですか" ]
+    }, {
+      "title" : "間投詞",
+      "forms" : [ "よいですか" ]
+    }, {
+      "title" : "間投詞",
+      "forms" : [ "良いですか" ]
+    }, {
+      "title" : "間投詞",
+      "forms" : [ "しなさい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "機能",
+      "text" : "命令。提案。多くの場合で疑問符が付く。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 298,
+        "form" : "ぽい"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 106,
+        "form" : "ぽいよ"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 59,
+        "form" : "よ"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 330,
+        "form" : "どーして"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 525,
+      "form" : "だってなんで"
+    },
+    "translations" : [ {
+      "title" : "文頭詞",
+      "forms" : [ "なぜ" ]
+    }, {
+      "title" : "文頭詞",
+      "forms" : [ "どうして" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "機能",
+      "text" : "why (=from what)。なぜ〜なのか。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 305,
+        "form" : "だってていうか"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 526,
+      "form" : "にゃん"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "なので" ]
+    }, {
+      "title" : "後置詞",
+      "forms" : [ "だから" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "機能",
+      "text" : "理由は前に来る。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 527,
+      "form" : "りょ-かい"
+    },
+    "translations" : [ ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 528,
+      "form" : "にょわーあそび"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "発言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "主張" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "提唱" ]
+    }, {
+      "title" : "名医s",
+      "forms" : [ "提案" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 529,
+      "form" : "むぎゅう"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "幸福" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "幸せな" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 530,
+      "form" : "かまって"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "孤独" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "寂しい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 531,
+      "form" : "かまっててきなあそぼーよ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "孤立語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 532,
+      "form" : "ぺたりんこてきなあそぼーよ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "膠着語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 533,
+      "form" : "こーかんてきなあそぼーよ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "屈折語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 534,
+      "form" : "だっこてきなあそぼーよ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "抱合語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 535,
+      "form" : "ってしてる"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "にする" ]
+    }, {
+      "title" : "後置詞",
+      "forms" : [ "化する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "機能",
+      "text" : "動詞化。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 536,
+      "form" : "きりってしてる"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "確立する" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
