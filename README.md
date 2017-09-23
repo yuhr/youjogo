@@ -1,8 +1,8 @@
 # ようじょ語 (Youjogo; the language of Youjo)
 
-[`youjogo.json`](https://raw.githubusercontent.com/yuhr/youjogo/master/youjogo.json)が[OTM-JSON](http://ja.conlinguistics.wikia.com/wiki/OTM-JSON)形式の辞書ファイルです。
+[`youjogo.json`](https://raw.githubusercontent.com/yuhr/youjogo/master/youjogo.json)が[OTM-JSON](http://ja.conlinguistics.wikia.com/wiki/OTM-JSON)形式の辞書ファイルです。[ZpDIC](http://ziphil.web.fc2.com/application/download/2.html)で開けます。
 
-[`youjogo.json`](https://raw.githubusercontent.com/yuhr/youjogo/master/youjogo.json) is the dictionary file in [OTM-JSON](http://ja.conlinguistics.wikia.com/wiki/OTM-JSON) format.
+[`youjogo.json`](https://raw.githubusercontent.com/yuhr/youjogo/master/youjogo.json) is the dictionary file in [OTM-JSON](http://ja.conlinguistics.wikia.com/wiki/OTM-JSON) format. You can use [ZpDIC](http://ziphil.web.fc2.com/application/download/2.html) to open it.
 
 ## 君が代 (Kimigayo)
 

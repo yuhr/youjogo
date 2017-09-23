@@ -1988,6 +1988,12 @@
     }, {
       "title" : "後置詞",
       "forms" : [ "したもの" ]
+    }, {
+      "title" : "後置詞",
+      "forms" : [ "であるもの" ]
+    }, {
+      "title" : "後置詞",
+      "forms" : [ "ようなもの" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2234,6 +2240,15 @@
     }, {
       "title" : "名詞",
       "forms" : [ "する方法" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "やり方" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "仕方" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "手順" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7013,6 +7028,12 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "可能性" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "確度" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "蓋然性" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -8849,6 +8870,12 @@
     "translations" : [ {
       "title" : "間投詞",
       "forms" : [ "えへへ" ]
+    }, {
+      "title" : "間投詞",
+      "forms" : [ "嬉しい" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "嬉しい" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -9308,10 +9335,7 @@
       "forms" : [ "し終わる" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "機能",
-      "text" : "完了。"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
