@@ -11852,6 +11852,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 673,
+      "form" : "かんじで"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "ために" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
