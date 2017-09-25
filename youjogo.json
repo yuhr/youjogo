@@ -300,22 +300,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 16,
-      "form" : "むかつく"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "わるい" ]
-    }, {
-      "title" : "形容詞",
-      "forms" : [ "悪い" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 17,
       "form" : "だいすき"
     },
@@ -567,6 +551,9 @@
       "forms" : [ "している" ]
     }, {
       "title" : "名詞",
+      "forms" : [ "今" ]
+    }, {
+      "title" : "副詞",
       "forms" : [ "今" ]
     } ],
     "tags" : [ ],
@@ -1028,10 +1015,7 @@
       "forms" : [ "国家" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "機能",
-      "text" : "「ぱよぱよちーん」から適当。"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1431,6 +1415,9 @@
     "translations" : [ {
       "title" : "形容詞",
       "forms" : [ "簡単な" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "平易な" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1977,6 +1964,12 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "物質" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "もの" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "物体" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2744,25 +2737,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 138,
-      "form" : "おかお"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "顔" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "前" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "機能",
-      "text" : "空間的な前。前部。正面部。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 139,
       "form" : "れっつごー"
     },
@@ -2998,6 +2972,9 @@
     }, {
       "title" : "副詞",
       "forms" : [ "やや" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "少ない" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4547,6 +4524,12 @@
     }, {
       "title" : "名詞",
       "forms" : [ "素材" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "材料" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "質料" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4566,25 +4549,6 @@
     }, {
       "title" : "名詞",
       "forms" : [ "風" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 250,
-      "form" : "ぱらぱら"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "粉" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "粉末" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "砂" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -5276,22 +5240,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 296,
-      "form" : "まえならえ"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "順序" ]
-    }, {
-      "title" : "動詞",
-      "forms" : [ "一列に並べる" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 297,
       "form" : "ぜんぶ"
     },
@@ -5851,17 +5799,14 @@
       "title" : "名詞",
       "forms" : [ "価値" ]
     }, {
-      "title" : "名詞",
-      "forms" : [ "価格" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "値段" ]
-    }, {
       "title" : "動詞",
       "forms" : [ "意味する" ]
     }, {
       "title" : "動詞",
       "forms" : [ "値する" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "意図" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6403,6 +6348,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "政党" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "社会" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6880,40 +6828,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 388,
-      "form" : "せなか"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "背中" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "背景" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "後方" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "せなか" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "うしろ" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "後ろ" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "背後" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "例文",
-      "text" : "ふえぇおとまりのせなかだもんっぽいかも\n家の後ろにある"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 389,
       "form" : "おなか"
     },
@@ -6932,6 +6846,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "おなか" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "臓器" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -8010,19 +7927,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 457,
-      "form" : "おんぷ"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "音" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 458,
       "form" : "おんぷむかつく"
     },
@@ -9050,14 +8954,17 @@
       "form" : "とこ"
     },
     "translations" : [ {
-      "title" : "後置詞",
+      "title" : "名詞",
       "forms" : [ "位置" ]
     }, {
-      "title" : "後置詞",
+      "title" : "名詞",
       "forms" : [ "場所" ]
     }, {
-      "title" : "後置詞",
+      "title" : "名詞",
       "forms" : [ "部位" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "部分" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -11732,22 +11639,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 667,
-      "form" : "あそこ"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "子" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "機能",
-      "text" : "物理学でいう接尾辞-on。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 668,
       "form" : "とりま"
     },
@@ -13186,6 +13077,9 @@
     "translations" : [ {
       "title" : "形容詞",
       "forms" : [ "足りない" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "不足" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -13555,6 +13449,1149 @@
     }, {
       "title" : "副詞",
       "forms" : [ "場合によっては" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 773,
+      "form" : "だいじてきなまてりある"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "梱包材" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 774,
+      "form" : "おぷしょん"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "設定" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ {
+      "title" : "別形",
+      "form" : "おぷちょん"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 775,
+      "form" : "ぴったし"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "適した" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "最適な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 776,
+      "form" : "げーむ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "社会" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 777,
+      "form" : "できたて"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "完成する" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "できる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "出来上がる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "出来る" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "できあがる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 778,
+      "form" : "ほかほか"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "熱い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 779,
+      "form" : "ぬくぬく"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "温かい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 780,
+      "form" : "まあまあ"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "ぬるい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 781,
+      "form" : "ひえひえ"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "冷たい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 782,
+      "form" : "ふるふる"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "震える" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 783,
+      "form" : "こごえてる"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "寒い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 784,
+      "form" : "むかつく"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "暑い" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "わるい" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "悪い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 785,
+      "form" : "こーかも"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "構築する" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "構成する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 786,
+      "form" : "げーむこーかもてきなまじかるわかんない"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "社会構成主義" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "社会構築主義" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 787,
+      "form" : "そのまま"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "まっすぐに" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 788,
+      "form" : "おじぎ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "曲がる" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "曲がった" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 789,
+      "form" : "くるくる"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "回る" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "回転する" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "回転" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 790,
+      "form" : "たぷたぷ"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "満ちた" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "いっぱい" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "一杯" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 791,
+      "form" : "たぷたぷってしてる"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "満たす" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "満ちる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 792,
+      "form" : "からっぽってしてる"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "空く" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "空ける" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "涸らす" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 793,
+      "form" : "ぐんぐん"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "伸びる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "育つ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 794,
+      "form" : "すこやか"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "健康的な" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "健全な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 795,
+      "form" : "ふけんぜん"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "不健全な" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "好ましくない" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 796,
+      "form" : "ふにゃふにゃってしてる"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "萎える" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "枯れる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "枯らす" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 797,
+      "form" : "でんしゃ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "横" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "側面" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 798,
+      "form" : "えれべーたー"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "縦" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 799,
+      "form" : "まえならえ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "前後" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "順序" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "一列に並べる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 800,
+      "form" : "ななちゃん"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "斜め" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 801,
+      "form" : "おかお"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "表側" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "顔" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "前" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "機能",
+      "text" : "空間的な前。前部。正面部。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 802,
+      "form" : "せなか"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "裏側" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "背中" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "背景" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "後方" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "せなか" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "うしろ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "後ろ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "背後" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "ふえぇおとまりのせなかだもんっぽいかも\n家の後ろにある"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 803,
+      "form" : "じゅーす"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "液" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "汁" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 804,
+      "form" : "やさいせいかつ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "野菜ジュース" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 805,
+      "form" : "ないしょ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "秘密" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "秘伝" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 806,
+      "form" : "ひみつきちてきな"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "独自の" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "独特の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 807,
+      "form" : "まじかるおまじない"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "哲学" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 808,
+      "form" : "まじかるてきな"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "哲学的な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 809,
+      "form" : "まじかるおまじないてきな"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "哲学の" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "哲学における" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 810,
+      "form" : "ゆめ"
+    },
+    "translations" : [ {
+      "title" : "助動詞",
+      "forms" : [ "しなければならない" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "願望" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "意志" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 811,
+      "form" : "おそらのようちえん"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "天国" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 812,
+      "form" : "おねんねしよっぽく"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "今までのように" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "依然として" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 813,
+      "form" : "もうながいこと"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "古くから" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "昔から" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "悠久の" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "長寿の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 814,
+      "form" : "わすれていたの"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "久しぶりに" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "久々に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 815,
+      "form" : "やっとあえたね"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "やっと" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "ようやく" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 816,
+      "form" : "おかね"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "値段" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "価格" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 817,
+      "form" : "おんぷ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "読み" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "発音" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "音" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 818,
+      "form" : "っこ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "機能",
+      "text" : "物理学の接尾辞-on。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 819,
+      "form" : "じーってかんじっこ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "観察子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 820,
+      "form" : "あそこ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "陰部" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 821,
+      "form" : "おまた"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "分岐点" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "臀部" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "股間" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "腋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 822,
+      "form" : "はじめて"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "基本" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "最初" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 823,
+      "form" : "はじめての"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "基本的な" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "原始的な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 824,
+      "form" : "おてほん"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "見本" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "手本" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "規範" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ルール" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "規則" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "体制" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 825,
+      "form" : "ずっしり"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "重い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 826,
+      "form" : "ふわふわ"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "軽い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 827,
+      "form" : "おはなしにょわにょわ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "小説" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 828,
+      "form" : "ふわふわのおはなしにょわにょわ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ライトノベル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 829,
+      "form" : "ぱらぱら"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "粒" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "粉" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "粉末" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "砂" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 830,
+      "form" : "ぱらぱらっこ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "粒子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 831,
+      "form" : "いくら"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "量" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 832,
+      "form" : "あっちこっちてきな"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "離散的な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 833,
+      "form" : "あっちこっちいくつ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "整数" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 834,
+      "form" : "きゅいーんいくつ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "実数" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 835,
+      "form" : "おそらいろいくつ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "虚数" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 836,
+      "form" : "とびっこ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "量子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 837,
+      "form" : "とびっこってしてる"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "量子化する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 838,
+      "form" : "はじめてのぱらぱらっこ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "素粒子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 839,
+      "form" : "はじめてのもと"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "元素" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 840,
+      "form" : "もと"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "種" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "源" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "原料" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 841,
+      "form" : "はじめてっこ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "原子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 842,
+      "form" : "わけっこ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "分ける" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "分割する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 843,
+      "form" : "なかよしっこ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "分子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 844,
+      "form" : "にゃんぱすなかよしっこ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "高分子" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
